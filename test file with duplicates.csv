@@ -1,0 +1,22 @@
+EmployeeID,FirstName,LastName,Gender,Age,Department,JobTitle,Salary,City,State,Country,JoiningDate,Email,Phone
+1001,Rahul,Sharma,Male,28,IT,Software Engineer,65000,Hyderabad,Telangana,India,2022-01-15,rahul.sharma@test.com,9876543210
+1002,Priya,Reddy,Female,30,HR,HR Executive,50000,Bengaluru,Karnataka,India,2021-06-10,priya.reddy@test.com,9876543211
+1003,Amit,Kumar,Male,35,Finance,Accountant,70000,Chennai,Tamil Nadu,India,2020-03-12,amit.kumar@test.com,9876543212
+1004,Sneha,Patel,Female,27,Marketing,Marketing Executive,55000,Mumbai,Maharashtra,India,2023-02-20,sneha.patel@test.com,9876543213
+1005,Ravi,Verma,Male,32,Sales,Sales Manager,80000,Delhi,Delhi,India,2019-11-18,ravi.verma@test.com,9876543214
+1006,Anjali,Rao,Female,29,IT,Data Engineer,85000,Hyderabad,Telangana,India,2022-08-01,anjali.rao@test.com,9876543215
+1007,Vikram,Singh,Male,31,Operations,Operations Manager,78000,Pune,Maharashtra,India,2021-04-22,vikram.singh@test.com,9876543216
+1008,Neha,Gupta,Female,26,Support,Support Engineer,48000,Noida,Uttar Pradesh,India,2023-05-15,neha.gupta@test.com,9876543217
+1009,Kiran,Nair,Male,33,IT,Cloud Engineer,92000,Kochi,Kerala,India,2020-09-30,kiran.nair@test.com,9876543218
+1010,Pooja,Yadav,Female,25,QA,QA Engineer,60000,Hyderabad,Telangana,India,2024-01-10,pooja.yadav@test.com,9876543219
+
+1003,Amit,Kumar,Male,35,Finance,Accountant,70000,Chennai,Tamil Nadu,India,2020-03-12,amit.kumar@test.com,9876543212
+1005,Ravi,Verma,Male,32,Sales,Sales Manager,80000,Delhi,Delhi,India,2019-11-18,ravi.verma@test.com,9876543214
+1011,Rahul,Sharma,Male,28,IT,Software Engineer,65000,Hyderabad,Telangana,India,2022-01-15,rahul.sharma@test.com,9876543220
+1012,Deepa,Rao,Female,29,IT,Data Engineer,85000,Hyderabad,Telangana,India,2022-08-01,,9876543221
+1013,Arun,Kumar,Male,,Finance,Analyst,72000,Chennai,Tamil Nadu,India,2023-03-18,arun.kumar@test.com,9876543222
+1014,Meena,Patel,Female,31,HR,HR Executive,51000,Mumbai,Maharashtra,India,2021-09-12,meena.patel@test.com,
+1015,Suresh,Naidu,Male,34,Sales,Sales Executive,68000,Vijayawada,Andhra Pradesh,India,2022-11-05,suresh.naidu@test.com,9876543224
+1008,Neha,Gupta,Female,26,Support,Support Engineer,48000,Noida,Uttar Pradesh,India,2023-05-15,neha.gupta@test.com,9876543217
+1016,Kavya,Reddy,Female,28,IT,Cloud Engineer,90000,Hyderabad,Telangana,India,2024-02-15,kavya.reddy@test.com,9876543225
+1016,Kavya,Reddy,Female,28,IT,Cloud Engineer,90000,Hyderabad,Telangana,India,2024-02-15,kavya.reddy@test.com,9876543225
